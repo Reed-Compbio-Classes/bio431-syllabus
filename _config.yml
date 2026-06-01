@@ -1,3 +1,9 @@
+title: Bio431 S02 (Spring 2027)
+description: Computational Image Analysis of Cells and Tissues
+theme: just-the-docs
+url: "https://reed-compbio-classes.github.io/bio431-syllabus/"
+baseurl: "" # the subpath of your site, e.g. /blog
+
 permalink: pretty
 
 exclude:
