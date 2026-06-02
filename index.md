@@ -26,6 +26,8 @@ Any modifications to the syllabus during the semester will be noted in the [chan
 
 ## Course goals
 
+As a class, our goal is to collectively gain a sense of current image analysis methodologies and example applications and findings. 
+
 At the end of the semester, you will be able to:
 1. Understand the state of computational image analysis tools for cellular biology. 
 2. Identify and summarize the methodological steps from a scientific paper.

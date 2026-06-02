@@ -1,7 +1,7 @@
 ---
 title: Change Log
 layout: default
-nav_order: 10
+nav_order: 6
 ---
 
 ## Change Log

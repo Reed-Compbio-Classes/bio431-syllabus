@@ -46,7 +46,7 @@ Failure to properly acknoewledge collaboration and others' ideas in your assignm
 
 ## Generative AI Policy
 
-Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts). Generative AI is becoming ubiquitous for some, while others are keeping away from it. **This policy is intended to be flexible with generative AI usage while ensuring that you demonstrate the learning goals.**
+Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts). Generative AI is becoming ubiquitous for some, while others are keeping away from it. **This policy is intended to be flexible with generative AI usage while ensuring that you demonstrate the learning goals.[^longnote]**
 
 Generative AI expectations for each assignment will be clearly specified. They will be one of the following:
 - **AI is encouraged:** For some assignments, use of generative AI may be very helpful. There will be instructions on how to acknowledge your use of AI (which will include providing your prompts).
@@ -54,3 +54,5 @@ Generative AI expectations for each assignment will be clearly specified. They w
 - **Do not use AI:** For the written reflections, you are prohibited from using generative AI for the reasons cited above in the Collaboration section. You will be asked to confirm that you did not use AI.
 
 ### The Main Takeaway: assignments will have different approved levels of generative AI use, which is intended to help you navigate when it is useful and when it prevents critical thinking.
+
+[^longnote]: The generative AI policy was adapted from the [AI Syllabus Language Heuristic](https://gamma.app/docs/AI-Syllabus-Language-Heuristic-guqykesli4ekki5?mode=doc), the [Can I Use AI](https://sites.google.com/view/aiassignments/glossary) website, and the Reed workshop _"More Than Words": Teaching and Evaluating Writing in an Age of AI_ facilitated by Christine Sharp, 2026.
